@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         Minesweeper Hacks
+// @name         Minesweeper Helper
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Userscript for Minesweeper
-// @author       Big Chungus
+// @author       Your Name
 // @match        https://minesweeperonline.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=minesweeperonline.com
+// @updateURL    https://raw.githubusercontent.com/lexm2/Minesweeper/refs/heads/master/minesweeper.js
+// @downloadURL  https://raw.githubusercontent.com/lexm2/Minesweeper/refs/heads/master/minesweeper.js
+// @grant        none
 // ==/UserScript==
 
 (function() {

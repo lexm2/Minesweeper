@@ -10,11 +10,8 @@
 
 (function() {
     'use strict';
-    
-    // Your minesweeper code here
     console.log('Minesweeper userscript loaded!');
     
-    // If you want to import your external minesweeper.js file
     function loadExternalScript() {
         const script = document.createElement('script');
         script.src = 'file:///path/to/your/minesweeper.js'; // This won't work directly due to security restrictions
